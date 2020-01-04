@@ -1,0 +1,15 @@
+.PokeList_content{
+    padding: 0;
+    display: flex;
+    width: 90%;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-around;
+    box-sizing: border-box;
+    max-width: 1150px;
+
+}
+.PokeList_title{
+    margin-top: 24px;
+    color: #454545;
+}
