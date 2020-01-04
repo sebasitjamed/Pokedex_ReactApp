@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## POKEDEX APP
+Tecnologias :
+- React JS
+- CSS
+- HTML5
+- API para los Sprites (imagenes) https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/index.png
+- API Pokemon Information : https://pokeapi.co/api/v2/pokemon/
+
 
 In the project directory, you can run:
 
