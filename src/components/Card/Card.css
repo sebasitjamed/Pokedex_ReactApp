@@ -1,5 +1,5 @@
 .Card{
-   width: 180px;
+   width: 160px;
    height: 200px;
    margin: 8px;
    padding: 0;
@@ -22,8 +22,8 @@
 .card_img img{
    position: absolute;
    width: 180px;
-   top: -10px;
-   left: 0px;
+   top: 0px;
+   left: -5px;
    display: flex;
    justify-content: center;
  

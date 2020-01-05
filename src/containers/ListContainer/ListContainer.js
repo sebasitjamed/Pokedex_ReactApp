@@ -9,7 +9,7 @@ class ListContainer extends Component {
     }
 
     componentDidMount() {
-        const url = "https://pokeapi.co/api/v2/pokemon/"
+        const url = "https://pokeapi.co/api/v2/pokemon/?limit=60&offset=0"
 
         fetch(url)
             .then(response => response.json())
